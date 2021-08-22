@@ -39,3 +39,4 @@ C:\Users\Alvaro-PC\source\repos\TP_1\Problema1\obj\Debug\net5.0\Problema1.pdb
 C:\Users\Alvaro-PC\source\repos\TP_1\Problema1\obj\Debug\net5.0\Problema1.genruntimeconfig.cache
 C:\Users\Alvaro-PC\source\repos\TP_1\Problema1\obj\Debug\net5.0\Problema1.csproj.CopyComplete
 C:\Users\Alvaro-PC\source\repos\TP_1\Problema1\obj\Debug\net5.0\Razor\Views\Home\Problema1.cshtml.g.cs
+C:\Users\Alvaro-PC\source\repos\TP_1\Problema1\obj\Debug\net5.0\Razor\Views\Home\Problema2.cshtml.g.cs

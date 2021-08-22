@@ -38,7 +38,32 @@ namespace Problema1.Controllers
             }
             catch (Exception ex)
             {
-                return $"ERROR: {ex.Message} - Formato de entrada incorrecto";
+                return $"ERROR DE ENTRADA: {ex.Message}";
+            }
+        }
+
+        public IActionResult Problema2()
+        {
+            return View();
+        }
+
+        public string Problema2_Muestra(string numero1,string numero2)
+        {
+            try
+            {
+                int num1 = Convert.ToInt32(numero1);
+                int num2 = Convert.ToInt32(numero2);
+             
+                return $"El cociente del numero {num1}/{num2} es {num1/num2}";
+            }
+            catch(DivideByZeroException)
+            {
+                return $"No se puede dividir en 0";
+            }
+
+            catch (Exception ex)
+            {
+                return $"ERROR: {ex.Message}";
             }
         }
 
