@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alvaro-PC\\source\\repos\\TP_1\\Problema1\\Problema1.csproj": {}
+    "C:\\Users\\Alvaro-PC\\source\\repos\\Taller II 2021\\TP_1\\Problema1\\Problema1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alvaro-PC\\source\\repos\\TP_1\\Problema1\\Problema1.csproj": {
+    "C:\\Users\\Alvaro-PC\\source\\repos\\Taller II 2021\\TP_1\\Problema1\\Problema1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alvaro-PC\\source\\repos\\TP_1\\Problema1\\Problema1.csproj",
+        "projectUniqueName": "C:\\Users\\Alvaro-PC\\source\\repos\\Taller II 2021\\TP_1\\Problema1\\Problema1.csproj",
         "projectName": "Problema1",
-        "projectPath": "C:\\Users\\Alvaro-PC\\source\\repos\\TP_1\\Problema1\\Problema1.csproj",
+        "projectPath": "C:\\Users\\Alvaro-PC\\source\\repos\\Taller II 2021\\TP_1\\Problema1\\Problema1.csproj",
         "packagesPath": "C:\\Users\\Alvaro-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alvaro-PC\\source\\repos\\TP_1\\Problema1\\obj\\",
+        "outputPath": "C:\\Users\\Alvaro-PC\\source\\repos\\Taller II 2021\\TP_1\\Problema1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alvaro-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

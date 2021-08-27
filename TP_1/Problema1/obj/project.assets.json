@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alvaro-PC\\source\\repos\\TP_1\\Problema1\\Problema1.csproj",
-      "projectName": "Problema1",
-      "projectPath": "C:\\Users\\Alvaro-PC\\source\\repos\\TP_1\\Problema1\\Problema1.csproj",
+      "projectUniqueName": "C:\\Users\\Alvaro-PC\\source\\repos\\Taller II 2021\\TP_1\\Problema1\\Trabajo_P1.csproj",
+      "projectName": "Trabajo_P1",
+      "projectPath": "C:\\Users\\Alvaro-PC\\source\\repos\\Taller II 2021\\TP_1\\Problema1\\Trabajo_P1.csproj",
       "packagesPath": "C:\\Users\\Alvaro-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alvaro-PC\\source\\repos\\TP_1\\Problema1\\obj\\",
+      "outputPath": "C:\\Users\\Alvaro-PC\\source\\repos\\Taller II 2021\\TP_1\\Problema1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alvaro-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

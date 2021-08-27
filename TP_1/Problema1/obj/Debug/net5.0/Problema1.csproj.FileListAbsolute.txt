@@ -40,3 +40,46 @@ C:\Users\Alvaro-PC\source\repos\TP_1\Problema1\obj\Debug\net5.0\Problema1.genrun
 C:\Users\Alvaro-PC\source\repos\TP_1\Problema1\obj\Debug\net5.0\Problema1.csproj.CopyComplete
 C:\Users\Alvaro-PC\source\repos\TP_1\Problema1\obj\Debug\net5.0\Razor\Views\Home\Problema1.cshtml.g.cs
 C:\Users\Alvaro-PC\source\repos\TP_1\Problema1\obj\Debug\net5.0\Razor\Views\Home\Problema2.cshtml.g.cs
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\bin\Debug\net5.0\appsettings.json
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\bin\Debug\net5.0\Problema1.exe
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\bin\Debug\net5.0\Problema1.deps.json
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\bin\Debug\net5.0\Problema1.runtimeconfig.json
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\bin\Debug\net5.0\Problema1.runtimeconfig.dev.json
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\bin\Debug\net5.0\Problema1.dll
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\bin\Debug\net5.0\ref\Problema1.dll
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\bin\Debug\net5.0\Problema1.pdb
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\bin\Debug\net5.0\Problema1.Views.dll
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\bin\Debug\net5.0\Problema1.Views.pdb
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Problema1.csproj.AssemblyReference.cache
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Problema1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Problema1.AssemblyInfoInputs.cache
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Problema1.AssemblyInfo.cs
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Problema1.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Problema1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Problema1.RazorAssemblyInfo.cache
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Problema1.RazorAssemblyInfo.cs
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\staticwebassets\Problema1.StaticWebAssets.Manifest.cache
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\staticwebassets\Problema1.StaticWebAssets.xml
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\scopedcss\bundle\Problema1.styles.css
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Problema1.TagHelpers.input.cache
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Problema1.TagHelpers.output.cache
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Problema1.RazorCoreGenerate.cache
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Razor\Views\Home\Problema1.cshtml.g.cs
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Razor\Views\Home\Problema2.cshtml.g.cs
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Problema1.RazorTargetAssemblyInfo.cache
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Problema1.RazorTargetAssemblyInfo.cs
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Problema1.Views.pdb
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Problema1.dll
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\ref\Problema1.dll
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Problema1.pdb
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Problema1.genruntimeconfig.cache
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Problema1.csproj.CopyComplete
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Razor\Views\Home\Problema3.cshtml.g.cs
