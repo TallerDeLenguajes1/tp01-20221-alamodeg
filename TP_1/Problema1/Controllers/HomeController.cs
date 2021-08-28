@@ -4,8 +4,12 @@ using Problema1.Models;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.IO;
 using System.Linq;
+using System.Net;
+using System.Text.Json;
 using System.Threading.Tasks;
+using TP1_2021.Entities;
 
 namespace Problema1.Controllers
 {
@@ -29,7 +33,7 @@ namespace Problema1.Controllers
         }
 
         [HttpPost] //recibe la cadena de texto del navegador??
-        public string Problema1_Muestra(string numero)
+        public string Problema1_Mostrar(string numero)
         {
             try
             {
@@ -47,7 +51,7 @@ namespace Problema1.Controllers
             return View();
         }
 
-        public string Problema2_Muestra(string numero1,string numero2)
+        public string Problema2_Mostrar(string numero1,string numero2)
         {
             try
             {
@@ -67,17 +71,65 @@ namespace Problema1.Controllers
             }
         }
 
-        public IActionResult Problema3()
+     
+        public string Problema3()
         {
-            return View();
+            string listadoProvincias = "";
+            try
+            {
+                listadoProvincias += getProvincias();
+                return listadoProvincias;
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex.ToString());
+                return $"Error: {ex.Message}";
+            }
         }
 
+        public static string getProvincias()
+        {
+            var url = $"https://apis.datos.gob.ar/georef/api/provincias?campos=id,nombre";
+            var request = (HttpWebRequest)WebRequest.Create(url);
+            request.Method = "GET";
+            request.ContentType = "application/json";
+            request.Accept = "application/json";
+            string cadena = "";
+            try
+            {
+                using (WebResponse response = request.GetResponse())
+                {
+                    using (Stream strReader = response.GetResponseStream())
+                    {
+                        if (strReader != null)
+                        {
+                            using (StreamReader objReader = new StreamReader(strReader))
+                            {
+                                string responseBody = objReader.ReadToEnd();
+                                provinciasArgentina ListProvincias = JsonSerializer.Deserialize<provinciasArgentina>(responseBody);
+                                foreach (provincia prov in ListProvincias.Provincias)
+                                {
+                                    cadena += $"\t id : {prov.Id}, nombre : {prov.Nombre} \n ";
+                                }
+                            }
+                        }
+                    }
+                }
+                return cadena;
+
+            }
+            catch (Exception ex)
+            {
+                return $"Error {ex.Message}";
+            }
+
+        }
         public IActionResult Problema4()
         {
             return View();
         }
 
-        public string Problema4_Muestra(string numero1, string numero2)
+        public string Problema4_Mostrar(string numero1, string numero2)
         {
             try
             {

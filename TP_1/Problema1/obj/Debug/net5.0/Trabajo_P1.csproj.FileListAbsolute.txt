@@ -41,3 +41,4 @@ C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\T
 C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Trabajo_P1.genruntimeconfig.cache
 C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Trabajo_P1.csproj.CopyComplete
 C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Razor\Views\Home\Problema4.cshtml.g.cs
+C:\Users\Alvaro-PC\source\repos\Taller II 2021\TP_1\Problema1\obj\Debug\net5.0\Trabajo_P1.csproj.AssemblyReference.cache
